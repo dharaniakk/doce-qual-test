@@ -1,3 +1,3 @@
 public class DemoClass {
-	integer c;
+	integer a;
 }
