@@ -3,5 +3,5 @@
  * 
  */
 public class DemoClass {
-	integer l;
+	integer m;
 }
